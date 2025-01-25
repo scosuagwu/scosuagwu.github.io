@@ -11,5 +11,5 @@ This Repository will hold assignments for my Web, Pgm, & Db Foundation class.
 
 ## Websites I Recommend
 
-* [Youtube](youtube.com)- I enjoy learning new things as well being entertained by creators on youtube.
-* [Google Docs]{workspace.google.com/products/docs/)- I use google docs to note take as well as write down any ideas I have for my comic.
+* [Youtube](www.youtube.com)- I enjoy learning new things as well being entertained by creators on youtube.
+* [Google Docs](workspace.google.com/products/docs/)- I use google docs to note take as well as write down any ideas I have for my comic.
